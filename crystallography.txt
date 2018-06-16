@@ -1,0 +1,7 @@
+Küp Sistemi-Heksakisoktaeder-9M 3A₄ 4A₃ 6A₂ i-4/m   ̅3̅    2/m-a:na:ma-(hkl)
+Heksagonal Sistem-Diheksagonal_Bipiramidal(Proto),Diheksagonal_Bipiramidal(Dötero)-7M A₆ 6A₂ i-6/m 2/m 2/m-na:pa:a:mc-(hkil)
+Tetragonal Sistem-Ditetragonal_Bipiramidal(Proto),Ditetragonal_Bipiramidal(Dötero)-5M A₄ 4A₂ i-4/m 2/m 2/m-a:na:mc-(hkl)
+Trigonal Sistem-Ditrigonal_Skalenoeder-3M A₃ 3A₂ i-̅3̅   2/m-na:pa:a:mc-(hkil)
+Rombusal Sistem-Rombusal_Bipiramidal-3M 3A₂ i-2/m 2/m 2/m-na:b:mc-(hkl)
+Monoklinal Sistem-Monoklinal_Prizmatik-1M A₂ i-2/m-na:b:∞c-(hk0)
+Triklinal Sistem-Triklinal_Pinakoid-i-̅1̅ -∞a:b:∞c -(0k0) 
