@@ -26,27 +26,27 @@ public class Main extends JFrame {
 	 */
 
 	// declaring GUI elements
-	public JPanel left;
-	public JPanel right;
-	public JLabel skech;
-	public JLabel model;
-	public JComboBox<String> systems;
-	public JComboBox<String> classes;
-	public JButton showSkech;
-	public JButton showModel;
-	public JButton showPyk;
-	public JButton showCreated;
-	public JLabel firstHeader;
-	public JLabel simetries;
-	public JLabel secondHeader;
-	public JLabel hms;
-	public JLabel thirdHeader;
-	public JLabel weiss;
-	public JLabel fourthHeader;
-	public JLabel miller;
-	public JLabel counterForSkechs;
-	public int skechCounter = 0;
-	public int modelCounter = 0;
+	private JPanel left;
+	private JPanel right;
+	private JLabel skech;
+	private JLabel model;
+	private JComboBox<String> systems;
+	private JComboBox<String> classes;
+	private JButton showSkech;
+	private JButton showModel;
+	private JButton showPyk;
+	private JButton showCreated;
+	private JLabel firstHeader;
+	private JLabel simetries;
+	private JLabel secondHeader;
+	private JLabel hms;
+	private JLabel thirdHeader;
+	private JLabel weiss;
+	private JLabel fourthHeader;
+	private JLabel miller;
+	private JLabel counterForSkechs;
+	private int skechCounter = 0;
+	private int modelCounter = 0;
 
 	public Main() {
 
